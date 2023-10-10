@@ -1,2 +1,2 @@
 # html-portfolio
-this is my forst HTML project online
+this is my first HTML project online
